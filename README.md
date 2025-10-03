@@ -92,6 +92,13 @@ Any users who are using the private key integration will need to re-authenticate
 ### 4. Metrics auto migration
 Good news: any metrics previously tracked via private keys will automatically migrate to branded metrics. This means your data continuity is preserved, and you get all the benefits of OAuth without losing visibility. Learn more about branded metrics here.
 
-
+## Additional resources
+* Developer docs:
+  * [Make API calls using OAuth](https://developers.klaviyo.com/en/docs/set_up_oauth)
+  * [Create a public OAuth app](https://developers.klaviyo.com/en/docs/create_a_public_oauth_app)
+  * [Handle your app's OAuth flow](https://developers.klaviyo.com/en/docs/handle_your_apps_oauth_flow)
+  * [Branding for app metrics](https://developers.klaviyo.com/en/docs/understanding_branded_events)
+* [Build an OAuth app Academy course](https://academy.klaviyo.com/en-us/courses/build-an-oauth-app-with-klaviyo)
+* [Klaviyo app development YouTube playlist](https://www.youtube.com/playlist?list=PLHkNfHgtxcUZFU_vpOM8vAKai0BC6yxzB)
 
 
